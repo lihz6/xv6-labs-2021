@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.includePath": ["."],
+    "files.associations": {
+        "user.h": "c",
+        "stat.h": "c"
+    }
+}
